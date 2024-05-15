@@ -19,6 +19,7 @@ Use keyframes or Unity's Animation tools to animate transitions between states.
 ## Step 5: 
 Drag Animator Controller to the GameObject in the Inspector.
 
+
 ## Program:
 PlayerController:
 ```
