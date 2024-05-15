@@ -20,6 +20,7 @@ Use keyframes or Unity's Animation tools to animate transitions between states.
 ## Step 5: 
 Drag Animator Controller to the GameObject in the Inspector.
 
+
 ## Program:
 PlayerController:
 ```
@@ -53,5 +54,4 @@ public class script : MonoBehaviour
 ![alt text](image.png)
 
 ## Result:
-
 An animator movement for a player using unity is developed successfully.
