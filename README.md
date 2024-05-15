@@ -53,5 +53,4 @@ public class script : MonoBehaviour
 ![alt text](image.png)
 
 ## Result:
-
 An animator movement for a player using unity is developed successfully.
