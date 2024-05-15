@@ -1,5 +1,4 @@
 # Ex5-Animator-Movement
-
 ## Aim:
 To develop a animator movement for a player using unity.
 
@@ -51,6 +50,5 @@ public class script : MonoBehaviour
 ```
 ## Output:
 ![alt text](image.png)
-
 ## Result:
 An animator movement for a player using unity is developed successfully.
